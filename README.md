@@ -1,16 +1,6 @@
 ## PHPuControl_2.6.1
 
-PHPuControl 2.6.1 is a procedurally written PHP and MySQL system offering a complete backend and user management functionality, ready to serve as a foundation for your projects.
-
-*Features*
-
-1. CSRF & XSS Protection: Safeguards to prevent cross-site attacks.
-2. SQL Injection Protection: All database queries are securely handled with prepared statements.
-3. Backend Security: Additional token based authentication required for access.
-4. Brute Force Protection: Login attempts are protected against automated attacks.
-5. Strong Passwords: Passwords are securely hashed using Bcrypt.
-6. Comprehensive Activity Logging: Tracks all user actions.
-7. Directory Security: All directories protected, access only via public entry points.
+PHPuControl 2.6.1 is a PHP and MySQL system offering a complete backend and user management functionality, ready to serve as a foundation for your projects.
 
 *Technologies*
 
