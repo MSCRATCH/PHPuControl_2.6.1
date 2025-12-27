@@ -13,8 +13,6 @@ PHPuControl 2.6.1 is a PHP and MySQL system offering a complete backend and user
 
 *Installation*
 
-As there is currently no installation system available, manual installation is required. Here are the steps:
-
 1. *Database setup*: Insert the database credentials into the `config/config.php` file.
 2. *Create tables*: Create the necessary tables using the provided SQL code.
 3. *Create user account*: Sign up for a new user account using the registration form.
